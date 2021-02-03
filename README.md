@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+ My name is Daniele (or *-Daler-*, or *@daler3*), and I am a Software Engineer interested in Machine Learning, Privacy and Graphs. 
+
+
 <!--
 **daler3/daler3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
